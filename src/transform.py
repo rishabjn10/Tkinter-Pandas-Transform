@@ -28,7 +28,7 @@ def convert_date_column(df):
     Returns:
     pd.DataFrame: The dataframe with 'Date' column converted to datetime objects.
     """
-    df["Date"] = pd.to_datetime(df["Date"])
+    df["Date"] = pd.to_datetime(df["Date"], format="%Y%m%d")
     return df
 
 

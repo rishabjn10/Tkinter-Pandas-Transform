@@ -23,8 +23,8 @@ This project provides a simple GUI application for importing, transforming, and 
 1. Clone the repository (if using Git):
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd repo-name
+    git clone https://github.com/rishabjn10/Tkinter-Pandas-Transform.git
+    cd Tkinter-Pandas-Transform
     ```
 
 2. Set up a virtual environment:
